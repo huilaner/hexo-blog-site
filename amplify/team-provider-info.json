@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hexoblogsite-dev-155644-authRole",
+      "UnauthRoleArn": "arn:aws:iam::911694294107:role/amplify-hexoblogsite-dev-155644-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::911694294107:role/amplify-hexoblogsite-dev-155644-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hexoblogsite-dev-155644-deployment",
+      "UnauthRoleName": "amplify-hexoblogsite-dev-155644-unauthRole",
+      "StackName": "amplify-hexoblogsite-dev-155644",
+      "StackId": "arn:aws:cloudformation:us-east-1:911694294107:stack/amplify-hexoblogsite-dev-155644/2c845b90-4d56-11eb-a42c-0a6e9e609c1f",
+      "AmplifyAppId": "d3srjrsdwn0taq"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3srjrsdwn0taq",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
